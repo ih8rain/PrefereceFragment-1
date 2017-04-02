@@ -28,9 +28,9 @@ PreferenceScreen: 启动一个网页
 ----------
 ![Alt text](https://github.com/linylx/PrefereceFragment/blob/master/img/5.jpg)
 ----------
-(<intent
+intent
     android:action="android.intent.action.VIEW"
-    android:data="http://www.baidu.com"/>)
+    android:data="http://www.baidu.com"
 ----------
 Preference attributes
 ========
